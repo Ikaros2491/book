@@ -1,0 +1,186 @@
+{
+  "cities_searched": [],
+  "listings_found": [],
+  "search_log": [
+    {
+      "city": "newyork",
+      "query": "motorhome",
+      "url": "https://newyork.craigslist.org/search/rva?max_price=1500&query=motorhome",
+      "status": "error_200"
+    },
+    {
+      "city": "newyork",
+      "query": "class+c",
+      "url": "https://newyork.craigslist.org/search/rva?max_price=1500&query=class+c",
+      "status": "error_200"
+    },
+    {
+      "city": "newyork",
+      "query": "camper+van",
+      "url": "https://newyork.craigslist.org/search/rva?max_price=1500&query=camper+van",
+      "status": "error_200"
+    },
+    {
+      "city": "losangeles",
+      "query": "motorhome",
+      "url": "https://losangeles.craigslist.org/search/rva?max_price=1500&query=motorhome",
+      "status": "error_200"
+    },
+    {
+      "city": "losangeles",
+      "query": "class+c",
+      "url": "https://losangeles.craigslist.org/search/rva?max_price=1500&query=class+c",
+      "status": "error_200"
+    },
+    {
+      "city": "losangeles",
+      "query": "camper+van",
+      "url": "https://losangeles.craigslist.org/search/rva?max_price=1500&query=camper+van",
+      "status": "error_200"
+    },
+    {
+      "city": "sfbay",
+      "query": "motorhome",
+      "url": "https://sfbay.craigslist.org/search/rva?max_price=1500&query=motorhome",
+      "status": "error_200"
+    },
+    {
+      "city": "sfbay",
+      "query": "class+c",
+      "url": "https://sfbay.craigslist.org/search/rva?max_price=1500&query=class+c",
+      "status": "error_200"
+    },
+    {
+      "city": "sfbay",
+      "query": "camper+van",
+      "url": "https://sfbay.craigslist.org/search/rva?max_price=1500&query=camper+van",
+      "status": "error_200"
+    },
+    {
+      "city": "chicago",
+      "query": "motorhome",
+      "url": "https://chicago.craigslist.org/search/rva?max_price=1500&query=motorhome",
+      "status": "error_200"
+    },
+    {
+      "city": "chicago",
+      "query": "class+c",
+      "url": "https://chicago.craigslist.org/search/rva?max_price=1500&query=class+c",
+      "status": "error_200"
+    },
+    {
+      "city": "chicago",
+      "query": "camper+van",
+      "url": "https://chicago.craigslist.org/search/rva?max_price=1500&query=camper+van",
+      "status": "error_200"
+    },
+    {
+      "city": "austin",
+      "query": "motorhome",
+      "url": "https://austin.craigslist.org/search/rva?max_price=1500&query=motorhome",
+      "status": "error_200"
+    },
+    {
+      "city": "austin",
+      "query": "class+c",
+      "url": "https://austin.craigslist.org/search/rva?max_price=1500&query=class+c",
+      "status": "error_200"
+    },
+    {
+      "city": "austin",
+      "query": "camper+van",
+      "url": "https://austin.craigslist.org/search/rva?max_price=1500&query=camper+van",
+      "status": "error_200"
+    },
+    {
+      "city": "boston",
+      "query": "motorhome",
+      "url": "https://boston.craigslist.org/search/rva?max_price=1500&query=motorhome",
+      "status": "error_200"
+    },
+    {
+      "city": "boston",
+      "query": "class+c",
+      "url": "https://boston.craigslist.org/search/rva?max_price=1500&query=class+c",
+      "status": "error_200"
+    },
+    {
+      "city": "boston",
+      "query": "camper+van",
+      "url": "https://boston.craigslist.org/search/rva?max_price=1500&query=camper+van",
+      "status": "error_200"
+    },
+    {
+      "city": "seattle",
+      "query": "motorhome",
+      "url": "https://seattle.craigslist.org/search/rva?max_price=1500&query=motorhome",
+      "status": "error_200"
+    },
+    {
+      "city": "seattle",
+      "query": "class+c",
+      "url": "https://seattle.craigslist.org/search/rva?max_price=1500&query=class+c",
+      "status": "error_200"
+    },
+    {
+      "city": "seattle",
+      "query": "camper+van",
+      "url": "https://seattle.craigslist.org/search/rva?max_price=1500&query=camper+van",
+      "status": "error_200"
+    },
+    {
+      "city": "atlanta",
+      "query": "motorhome",
+      "url": "https://atlanta.craigslist.org/search/rva?max_price=1500&query=motorhome",
+      "status": "error_200"
+    },
+    {
+      "city": "atlanta",
+      "query": "class+c",
+      "url": "https://atlanta.craigslist.org/search/rva?max_price=1500&query=class+c",
+      "status": "error_200"
+    },
+    {
+      "city": "atlanta",
+      "query": "camper+van",
+      "url": "https://atlanta.craigslist.org/search/rva?max_price=1500&query=camper+van",
+      "status": "error_200"
+    },
+    {
+      "city": "miami",
+      "query": "motorhome",
+      "url": "https://miami.craigslist.org/search/rva?max_price=1500&query=motorhome",
+      "status": "error_200"
+    },
+    {
+      "city": "miami",
+      "query": "class+c",
+      "url": "https://miami.craigslist.org/search/rva?max_price=1500&query=class+c",
+      "status": "error_200"
+    },
+    {
+      "city": "miami",
+      "query": "camper+van",
+      "url": "https://miami.craigslist.org/search/rva?max_price=1500&query=camper+van",
+      "status": "error_200"
+    },
+    {
+      "city": "portland",
+      "query": "motorhome",
+      "url": "https://portland.craigslist.org/search/rva?max_price=1500&query=motorhome",
+      "status": "error_200"
+    },
+    {
+      "city": "portland",
+      "query": "class+c",
+      "url": "https://portland.craigslist.org/search/rva?max_price=1500&query=class+c",
+      "status": "error_200"
+    },
+    {
+      "city": "portland",
+      "query": "camper+van",
+      "url": "https://portland.craigslist.org/search/rva?max_price=1500&query=camper+van",
+      "status": "error_200"
+    }
+  ]
+}
