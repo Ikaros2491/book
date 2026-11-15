@@ -22,7 +22,7 @@ Aviation professional with hands-on experience as a Part 121 flight attendant, a
 - Coordinate cabin readiness, catering handoffs, and service timing to support on-time performance and a consistent guest experience.
 
 ### Funeral Services Associate  
-**[Funeral Home Name]** · Feb 2024 – Jul 2024
+**Fero Funeral Home** · Feb 2024 – Jul 2024
 
 - Provided discreet, high-touch support to families during sensitive arrangements, emphasizing composure, empathy, and confidentiality.
 - Coordinated logistics and timing for services; communicated clearly with clients, vendors, and internal teams under pressure.

@@ -21,7 +21,7 @@ Aviation professional with experience as a Part 121 flight attendant, airport ma
 - Uphold confidentiality and FAR/company compliance in a high-tempo crew environment.
 
 ### Funeral Services Associate  
-**[Funeral Home Name]** · Feb 2024 – Jul 2024
+**Fero Funeral Home** · Feb 2024 – Jul 2024
 
 - Coordinated sensitive, time-critical logistics with clients and vendors; maintained strict confidentiality.
 - Strengthened organization, composure, and client-service skills used in trip support roles.

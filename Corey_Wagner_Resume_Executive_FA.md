@@ -23,7 +23,7 @@ Polished, discreet Part 121 flight attendant and aviation professional seeking a
 - Adapt service to passenger needs and trip conditions while meeting FAR and company procedure requirements.
 
 ### Funeral Services Associate  
-**[Funeral Home Name]** · Feb 2024 – Jul 2024
+**Fero Funeral Home** · Feb 2024 – Jul 2024
 
 - Provided discreet, high-touch support to families in sensitive situations—composure, empathy, and absolute confidentiality.
 - Coordinated timing and logistics for services; partnered with clients, vendors, and internal teams under pressure.
