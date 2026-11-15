@@ -32,7 +32,7 @@ Aviation professional with hands-on experience as a Part 121 flight attendant, a
 **Right Rudder Aviation** · Inverness, FL · Jan 2020 – Jan 2024
 
 - Ran day-to-day airport operations with minimal outside assistance—ramp, hangars, fuel, safety oversight, client service, and facility readiness.
-- Sold and marketed multi-million-dollar aircraft as the sole U.S. distributor for the assigned product line; handled large client transactions from inquiry through closing.
+- Sold and marketed multi-million-dollar Pipistrel Aircraft as the sole U.S. distributor; handled large client transactions from inquiry through closing.
 - Personally transported and escorted high-net-worth / millionaire clients, delivering discreet, white-glove service from arrival through departure.
 - Planned catering, ground transportation, and VIP staging; performed dispatcher-style trip scheduling and coordination with charter partners, pilots, and maintenance.
 - Managed aircraft parts ordering and inventory support; restocked airport facilities including fuel tanks and operational supplies.

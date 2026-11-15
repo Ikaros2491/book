@@ -32,7 +32,7 @@ Aviation professional with experience as a Part 121 flight attendant, airport ma
 - Ran day-to-day airport operations with limited supervision—scheduling, ramp, hangars, fuel, safety, and client/crew support.
 - Central point of contact for aircraft owners, charter customers, and flight crews; performed dispatcher-style trip scheduling, itineraries, and coordination with charter partners, pilots, and maintenance.
 - Personally transported and escorted high-net-worth / millionaire clients; arranged catering, ground transportation, and VIP staging confirmed against the schedule.
-- Sold and marketed multi-million-dollar aircraft as sole U.S. distributor for the assigned line; managed large client transactions end-to-end.
+- Sold and marketed multi-million-dollar Pipistrel Aircraft as sole U.S. distributor; managed large client transactions end-to-end.
 - Handled aircraft parts ordering and inventory; restocked airport facilities including fuel and operational supplies to keep trips supported.
 - Coordinated repairs for aircraft and airport facilities—hired repair crews/vendors, tracked work, and restored operational readiness.
 - Applied FAA requirements, airport information, and operational constraints when assessing trip feasibility and resource needs.
