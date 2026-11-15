@@ -55,7 +55,7 @@ Expected Spring 2027 · GPA 4.0 · Dean’s List
 
 **Operations:** Trip scheduling · Itinerary communication · Crew & passenger logistics · Catering / ground transport coordination · Client preference awareness · Confidentiality · FAA regulations & safety
 
-**Aviation credentials:** Commercial Pilot · CFI · Part 121 Flight Attendant (Envoy Air) · CPR certified
+**Aviation credentials:** Commercial Pilot · CFI · Part 121 Flight Attendant (Envoy Air) · CPR · First Aid · ServSafe Food Handler
 
 **Tools & other:** Microsoft Office / Windows · English · Spanish (A2)
 

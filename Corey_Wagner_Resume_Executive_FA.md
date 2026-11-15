@@ -58,7 +58,7 @@ Expected Spring 2027 · GPA 4.0 · Dean’s List
 
 **Cabin & Service:** Part 121 Flight Attendant · VIP / HNW / UHNW client service · Anticipatory hospitality · Catering & provisioning coordination · Cabin presentation & readiness · Passenger preference awareness · Confidentiality & discretion
 
-**Safety & credentials:** CPR certified · Commercial Pilot · CFI · FAA regulations & safety · Coordination with pilots, ops, and ground support · Irregular operations composure · First Aid and ServSafe Food Handler (obtaining)
+**Safety & credentials:** CPR · First Aid · ServSafe Food Handler · Commercial Pilot · CFI · FAA regulations & safety · Coordination with pilots, ops, and ground support · Irregular operations composure
 
 **Languages:** English · Spanish (A2) · Microsoft Office / Windows
 
