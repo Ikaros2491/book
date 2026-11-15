@@ -1,5 +1,5 @@
 # COREY WAGNER
-**Executive Flight Attendant | Private Aviation Cabin Professional**
+**Flight Attendant | Private Aviation Cabin Professional**
 
 (352) 673-9027 · CoreyW2491@gmail.com · 7278 N Gibraltar Dr.
 
