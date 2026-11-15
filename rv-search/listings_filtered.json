@@ -1,0 +1,314 @@
+[
+  {
+    "id": "greatfalls_7966361754",
+    "source": "craigslist",
+    "title": "1978 Champion Dodge Motor Home Van",
+    "price": 600,
+    "city": "Great Falls",
+    "state": "",
+    "region": "greatfalls",
+    "url": "https://www.craigslist.org/view/d/great-falls-1978-champion-dodge-motor/ohe53daYhwzC7DFXbqWrsv",
+    "image_path": "/workspace/rv-search/listing_photos/greatfalls_7966361754.jpg",
+    "image_url": "https://images.craigslist.org/00E0E_fxleCdbqKR1_0t20Cz_600x450.jpg",
+    "description_snippet": "1978 Class B Dodge Champion Motor Home with large 440 engine. Minimal Rust. PROJECT CAMPER: Needs electrical tail-light work, suspension work, interior is gutted for living space setup. Mileage is high but engine starts up and runs well as per last summer. Sitting in open yard storage one year. Manual choke, automatic shift. Tranny-no leaks noted; normal shifting. Replaced: battery, sparks, tires.",
+    "runs_drives_signals": [
+      "starts",
+      "runs well"
+    ],
+    "leak_signals": [],
+    "no_leak_signals": [
+      "Tranny-no leaks"
+    ],
+    "no_leaks_claimed": true,
+    "appears_running": true,
+    "tier": "best_match",
+    "caveats": [
+      "gutted",
+      "PROJECT CAMPER",
+      "PROJECT"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "corvallis_7962517938",
+    "source": "craigslist",
+    "title": "25 ft 1978 Vintage Sports Coach Class A MH With Running 454 Engine",
+    "price": 750,
+    "city": "Sweet Home",
+    "state": "",
+    "region": "corvallis",
+    "url": "https://www.craigslist.org/view/d/sweet-home-25-ft-1978-vintage-sports/gCemWi5mSp36yh9MJyqu4u",
+    "image_path": "/workspace/rv-search/listing_photos/corvallis_7962517938.jpg",
+    "image_url": "https://images.craigslist.org/00n0n_abtqGHpBmXA_0x20oM_600x450.jpg",
+    "description_snippet": "She Ran and Drove and No Roof Leaks when we parked her. Needs your TLC and Clean Up!!! Engine runs 454 Chevy V8. All rv related stuff removed. Make it your own on the inside! Can be Restored to a Vintage RV........Excellent Man or Woman Cave...... Dry Storage......Food Cart ????????? Make a reasonable offer and she is yours. 25 ft 1978 Vintage Sports Coach Class A MH With Running 454 Engine $ 750.00 Comes with some building supplies and extra auto parts. They just couldn't get 'er done! See at Sweet Home RV Center LLC, 4691 Hwy 20, Sweet Home, OR 97386 541-367-4293 In business 35 years, rv sales, service, waste dump station, storage, rv repairs, interstate batteries, solar systems, full retail store, repair parts, free shipping and less then 24 hr. parts service on most items. Stop in Today!",
+    "runs_drives_signals": [
+      "Running",
+      "Ran and Drove",
+      "runs "
+    ],
+    "leak_signals": [],
+    "no_leak_signals": [
+      "No Roof Leaks"
+    ],
+    "no_leaks_claimed": true,
+    "appears_running": true,
+    "tier": "best_match",
+    "caveats": [],
+    "notes": ""
+  },
+  {
+    "id": "southjersey_7967128479",
+    "source": "craigslist",
+    "title": "Old Southwind\u2026 INSIDE OPICS COMING SOON, runs good\u2026",
+    "price": 500,
+    "city": "Franklinville",
+    "state": "NJ",
+    "region": "south jersey",
+    "url": "https://southjersey.craigslist.org/rvs/d/franklinville-old-southwind-inside/7967128479.html",
+    "image_path": "/workspace/rv-search/listing_photos/final_Old_Southwind_INSIDE_OPICS_COMING_SOON_r_500.jpg",
+    "image_url": "https://images.craigslist.org/01616_gP0rRvSVvEF_0t20CI_600x450.jpg",
+    "description_snippet": "We drove it here like 5 years ago\u2026 then it sat, I think it needs a brake master cylinder.. can\u2019t remember exactly, Probably better to tow it, it needs batteries, and fuel down carb.. it\u2019s not nice, has a awesome 454 engine and good trans. Has an old Onan generator, plenty of old parts that can still be used. I have unknown text blocking on phone, call if interested.",
+    "runs_drives_signals": [
+      "runs good"
+    ],
+    "leak_signals": [],
+    "no_leak_signals": [],
+    "no_leaks_claimed": false,
+    "appears_running": true,
+    "tier": "running_no_leak_mention",
+    "caveats": [],
+    "notes": ""
+  },
+  {
+    "id": "portland_7970298825",
+    "source": "craigslist",
+    "title": "1983 Chevy motorhome. Runs a drives. 53k on motor",
+    "price": 1000,
+    "city": "multnomah county",
+    "state": "",
+    "region": "portland",
+    "url": "https://www.craigslist.org/view/d/portland-1983-chevy-motorhome-runs/wUzAqEB6vc19mn5qGdLCm8",
+    "image_path": "/workspace/rv-search/listing_photos/portland_7970298825.jpg",
+    "image_url": "https://images.craigslist.org/00808_khPY4CxyVPr_0dL0t2_600x450.jpg",
+    "description_snippet": "Older motorhome for sale. Clean title, runs and drives. Still has life left",
+    "runs_drives_signals": [
+      "Runs a drives",
+      "runs ",
+      "drives"
+    ],
+    "leak_signals": [],
+    "no_leak_signals": [],
+    "no_leaks_claimed": false,
+    "appears_running": true,
+    "tier": "running_no_leak_mention",
+    "caveats": [],
+    "notes": ""
+  },
+  {
+    "id": "portland_7956040710",
+    "source": "craigslist",
+    "title": "RV / Great buy",
+    "price": 1400,
+    "city": "Portland/Gresham/Vancouver",
+    "state": "",
+    "region": "portland",
+    "url": "https://www.craigslist.org/view/d/portland-rv-great-buy/6W8mq48NoEGEMXMSHX1cX5",
+    "image_path": "/workspace/rv-search/listing_photos/portland_7956040710.jpg",
+    "image_url": "https://images.craigslist.org/00202_jAJG28RWlqr_0Cz0t2_600x450.jpg",
+    "description_snippet": "Decent 1984 Fleetwood RV, built in Chevy 454 big block Chasse, Omni generator, low Mile.. 2 dinner tables, 3 separate sleeper Runs Great",
+    "runs_drives_signals": [
+      "Runs Great"
+    ],
+    "leak_signals": [],
+    "no_leak_signals": [],
+    "no_leaks_claimed": false,
+    "appears_running": true,
+    "tier": "running_no_leak_mention",
+    "caveats": [],
+    "notes": ""
+  },
+  {
+    "id": "sfbay_7965123960",
+    "source": "craigslist",
+    "title": "1984 Winnebago Chieftain 33' was $4000 must sell",
+    "price": 1500,
+    "city": "aptos",
+    "state": "",
+    "region": "sfbay",
+    "url": "https://www.craigslist.org/view/d/aptos-1984-winnebago-chieftain-33-was/daKtHN2iApWvTRXkPm551i",
+    "image_path": "/workspace/rv-search/listing_photos/sfbay_7965123960.jpg",
+    "image_url": "https://images.craigslist.org/00q0q_gcY3091PDqt_0CI0t2_600x450.jpg",
+    "description_snippet": "1984 Winnebago Chieftain 33' Runs great. Has aftermarket overdrive Apartment sized fridge. Stove works but need gas valve for oven. Needs water heater 454 Engine Dual Chassis Batteries Bigfoot hydraulic leveling system Rear bike rack Continental Tires Like New Dual Gas Tanks All Awnings Intact and Functional",
+    "runs_drives_signals": [
+      "Runs great"
+    ],
+    "leak_signals": [],
+    "no_leak_signals": [],
+    "no_leaks_claimed": false,
+    "appears_running": true,
+    "tier": "running_no_leak_mention",
+    "caveats": [],
+    "notes": ""
+  },
+  {
+    "id": "seattle_7960445889",
+    "source": "craigslist",
+    "title": "Very Clean - 1997 Coachmen Catalina Class C Motor Home",
+    "price": 1500,
+    "city": "tacoma / pierce",
+    "state": "",
+    "region": "seattle",
+    "url": "https://www.craigslist.org/view/d/puyallup-very-clean-coachmen-catalina/q28caUZMQVZ9mSssUewbTL",
+    "image_path": "/workspace/rv-search/listing_photos/seattle_7960445889.jpg",
+    "image_url": "https://images.craigslist.org/00x0x_jcxRt1qRjtO_0bb07t_600x450.jpg",
+    "description_snippet": "This one stands out in person. 1997 Coachmen Catalina Class C Motor Home RV Runs and drives strong. Feels tight, smooth and reliable. Straight sale, no games. It has been a dependable one and has served its purpose well. Kept clean and maintained properly. If the ad is up, it is available. I prefer a smooth, simple sale with someone serious. If you're genuinely interested, please include your name and phone number in your message. I'll get back to you as soon as possible. Thank you.",
+    "runs_drives_signals": [
+      "Runs ",
+      "drives strong"
+    ],
+    "leak_signals": [],
+    "no_leak_signals": [],
+    "no_leaks_claimed": false,
+    "appears_running": true,
+    "tier": "running_no_leak_mention",
+    "caveats": [],
+    "notes": ""
+  },
+  {
+    "id": "eugene_7970137113",
+    "source": "craigslist",
+    "title": "1982 Winnebago Brave 22ft",
+    "price": 500,
+    "city": "Eugene, OR",
+    "state": "",
+    "region": "eugene",
+    "url": "https://www.craigslist.org/view/d/eugene-1982-winnebago-brave-22ft/wrCJjqXNG9L8kyQ2NLHLQz",
+    "image_path": "/workspace/rv-search/listing_photos/eugene_7970137113.jpg",
+    "image_url": "https://images.craigslist.org/00M0M_5ds6ODih0xH_0ww0oo_600x450.jpg",
+    "description_snippet": "1982 Winnebago Brave for sale. Runs and drives. 7.4L Chevy big block 454 gasoline engine is very powerful and hauls this motorhome with ease. Automatic transmission. 74,088 miles on the odometer. Built on a GM P30 one ton platform. At a length of only 22 feet and a fairly tight turn radius this motorhome is very maneuverable, easy to park and fits in pretty much any campsite. Clean title in hand. This RV would need lots of work to be brought back to good condition as it does have its issues. The roof has a leak and is sagging in the middle where the air conditioning unit is. We have it propped up with 2x4s. We put some sealant on the roof leak at the front passenger side, but there is damage in that corner on the roof. Overall the interior is in pretty rough shape and would need a lot of work to restore. As mentioned it runs and drives but the transmission has a fluid leak. The valve cover on the passenger side of the engine has an oil leak too. The distributor was replaced a number of",
+    "runs_drives_signals": [
+      "Runs ",
+      "drives",
+      "runs ",
+      "drives "
+    ],
+    "leak_signals": [
+      "leak",
+      "roof leak"
+    ],
+    "no_leak_signals": [],
+    "no_leaks_claimed": false,
+    "appears_running": true,
+    "tier": "running_has_leak_risk",
+    "caveats": [],
+    "notes": ""
+  },
+  {
+    "id": "reading_7957027121",
+    "source": "craigslist",
+    "title": "1972 Banner 20' motorhome for restoration - make offer",
+    "price": 1000,
+    "city": "Robesonia",
+    "state": "PA",
+    "region": "reading",
+    "url": "https://reading.craigslist.org/rvs/d/robesonia-1972-banner-20-motorhome-for/7957027121.html",
+    "image_path": "/workspace/rv-search/listing_photos/final_1972_Banner_20_motorhome_for_restoration_1000.jpg",
+    "image_url": "https://images.craigslist.org/01111_e2Iw90pqyAU_0CI0t2_600x450.jpg",
+    "description_snippet": "1972 Banner motorhome on a Dodge chassis. 20'. Restoration started 20 years ago - stopped due to owner's death. Comes with awning, self-contained generator, roof air conditioner, re-upholstered captain chairs. Owned by an auto interior professional, so the restoration was going to be classic. Bathroom has shower, refinished. Has all the appropriate tanks (grey and potable water). There is no propane tank - it was really old. Heater, refrigerator that runs on propane, electric and battery. A few interior walls were replaced. Some water damage at the front drivers side. Rear passenger window is shattered from lawnmower rock, but still intact. It's been sitting since he passed, and all batteries are dead. Wheels were replaced so they are legal. Tires appear to be intact - they still have air in them. Gauge panel was replaced, but old odometer is 96818. Come with accessories, extra fabric, new parts that were never installed. Has ball hitch on back. Will accept offers.",
+    "runs_drives_signals": [
+      "runs "
+    ],
+    "leak_signals": [
+      "water damage"
+    ],
+    "no_leak_signals": [],
+    "no_leaks_claimed": false,
+    "appears_running": true,
+    "tier": "running_has_leak_risk",
+    "caveats": [],
+    "notes": ""
+  },
+  {
+    "id": "portland_7966471701",
+    "source": "craigslist",
+    "title": "1988 Fleetwood Southwind Class A",
+    "price": 1000,
+    "city": "Ridgefield",
+    "state": "",
+    "region": "portland",
+    "url": "https://www.craigslist.org/view/d/ridgefield-1988-fleetwood-southwind/sXcsw7yak1cwXD4TCbiihx",
+    "image_path": "/workspace/rv-search/listing_photos/portland_7966471701.jpg",
+    "image_url": "https://images.craigslist.org/00f0f_a8AnomHHTgR_0lM0t2_600x450.jpg",
+    "description_snippet": "$1000. OBO Clear title. Has been sitting not getting used, YES IT STARTS, RUNS and DRIVES it has needs of course it is A 28ft Class A Motorhome has 58600 Original miles. Also has a Onan generator with 236 hours on it. RV has been sitting for over 6 years, YES It has needs. It's dirty inside and out it is in need of deep cleaning, It will need to have the roof sealed, has a water leak and it is in need of other things I'm certain, the RV was built with the John Deere chassis and the Ford 460. Cid Gas engine it's got potential Fixer upper the way you want it has not been gutted it's all original Landlords want it gone ASAP accepting Fair offers first one with cash gets it",
+    "runs_drives_signals": [
+      "STARTS",
+      "RUNS ",
+      "DRIVES "
+    ],
+    "leak_signals": [
+      "need to have the roof sealed",
+      "leak"
+    ],
+    "no_leak_signals": [],
+    "no_leaks_claimed": false,
+    "appears_running": true,
+    "tier": "running_has_leak_risk",
+    "caveats": [
+      "gutted"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "bellingham_7963276575",
+    "source": "craigslist",
+    "title": "$150 REDUCED PRICE!!. Fleetwood Bounder similar to Breaking Bad",
+    "price": 150,
+    "city": "bellingham",
+    "state": "",
+    "region": "bellingham",
+    "url": "https://www.craigslist.org/view/d/maple-falls-150-reduced-price-fleetwood/sxnJ4RGBNXfoRBhD9L2Gm8",
+    "image_path": "/workspace/rv-search/listing_photos/bellingham_7963276575.jpg",
+    "image_url": "https://images.craigslist.org/00P0P_CPOuCN9myk_0CI0t2_600x450.jpg",
+    "description_snippet": "$150 bucks, come get it. My parents passed away and there is a Fleetwood Bounder sitting on the property. It looks just like the breaking bad RV. Someone just dropped it off and left it on the property. It has no paper work, batteries but it was driven here without brakes. The inside is dry but mostly gutted. From what someone who looked at it said it has a nice generator in it. It is a definite project or can be used to store stuff if you don\u2019t want to pay every month when you can buy this once. Other that I have no information about this rv, only the pics. I am disabled and can\u2019t even get in it. Make me an offer, I just need it off the property. Thanks",
+    "runs_drives_signals": [
+      "driven here"
+    ],
+    "leak_signals": [],
+    "no_leak_signals": [
+      "inside is dry"
+    ],
+    "no_leaks_claimed": true,
+    "appears_running": false,
+    "tier": "unclear_condition",
+    "caveats": [
+      "no paper work",
+      "without brakes",
+      "gutted",
+      "project"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "losangeles_7965244005",
+    "source": "craigslist",
+    "title": "1978 Winnebago",
+    "price": 1000,
+    "city": "san fernando valley",
+    "state": "",
+    "region": "losangeles",
+    "url": "https://www.craigslist.org/view/d/granada-hills-1978-winnebago/pQbr9bPVxHbun7HxbLZ4vc",
+    "image_path": "/workspace/rv-search/listing_photos/losangeles_7965244005.jpg",
+    "image_url": "https://images.craigslist.org/00707_41coHf8PwNV_0lM0t2_600x450.jpg",
+    "description_snippet": "Or best offer. Non-running. Ran well before parking. Must be towed. Sold AS-IS.",
+    "runs_drives_signals": [
+      "Ran well"
+    ],
+    "leak_signals": [],
+    "no_leak_signals": [],
+    "no_leaks_claimed": false,
+    "appears_running": false,
+    "tier": "not_running_project",
+    "caveats": [],
+    "notes": ""
+  }
+]

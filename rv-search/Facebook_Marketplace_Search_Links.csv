@@ -1,0 +1,169 @@
+metro,slug,query,url
+"New York, NY",nyc,motorhome,https://www.facebook.com/marketplace/nyc/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"New York, NY",nyc,class c rv,https://www.facebook.com/marketplace/nyc/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"New York, NY",nyc,camper van,https://www.facebook.com/marketplace/nyc/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"New York, NY",nyc,winnebago,https://www.facebook.com/marketplace/nyc/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Los Angeles, CA",la,motorhome,https://www.facebook.com/marketplace/la/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Los Angeles, CA",la,class c rv,https://www.facebook.com/marketplace/la/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Los Angeles, CA",la,camper van,https://www.facebook.com/marketplace/la/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Los Angeles, CA",la,winnebago,https://www.facebook.com/marketplace/la/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"San Francisco, CA",sanfrancisco,motorhome,https://www.facebook.com/marketplace/sanfrancisco/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"San Francisco, CA",sanfrancisco,class c rv,https://www.facebook.com/marketplace/sanfrancisco/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"San Francisco, CA",sanfrancisco,camper van,https://www.facebook.com/marketplace/sanfrancisco/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"San Francisco, CA",sanfrancisco,winnebago,https://www.facebook.com/marketplace/sanfrancisco/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Chicago, IL",chicago,motorhome,https://www.facebook.com/marketplace/chicago/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Chicago, IL",chicago,class c rv,https://www.facebook.com/marketplace/chicago/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Chicago, IL",chicago,camper van,https://www.facebook.com/marketplace/chicago/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Chicago, IL",chicago,winnebago,https://www.facebook.com/marketplace/chicago/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Austin, TX",austin,motorhome,https://www.facebook.com/marketplace/austin/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Austin, TX",austin,class c rv,https://www.facebook.com/marketplace/austin/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Austin, TX",austin,camper van,https://www.facebook.com/marketplace/austin/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Austin, TX",austin,winnebago,https://www.facebook.com/marketplace/austin/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Boston, MA",boston,motorhome,https://www.facebook.com/marketplace/boston/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Boston, MA",boston,class c rv,https://www.facebook.com/marketplace/boston/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Boston, MA",boston,camper van,https://www.facebook.com/marketplace/boston/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Boston, MA",boston,winnebago,https://www.facebook.com/marketplace/boston/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Seattle, WA",seattle,motorhome,https://www.facebook.com/marketplace/seattle/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Seattle, WA",seattle,class c rv,https://www.facebook.com/marketplace/seattle/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Seattle, WA",seattle,camper van,https://www.facebook.com/marketplace/seattle/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Seattle, WA",seattle,winnebago,https://www.facebook.com/marketplace/seattle/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Atlanta, GA",atlanta,motorhome,https://www.facebook.com/marketplace/atlanta/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Atlanta, GA",atlanta,class c rv,https://www.facebook.com/marketplace/atlanta/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Atlanta, GA",atlanta,camper van,https://www.facebook.com/marketplace/atlanta/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Atlanta, GA",atlanta,winnebago,https://www.facebook.com/marketplace/atlanta/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Miami, FL",miami,motorhome,https://www.facebook.com/marketplace/miami/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Miami, FL",miami,class c rv,https://www.facebook.com/marketplace/miami/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Miami, FL",miami,camper van,https://www.facebook.com/marketplace/miami/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Miami, FL",miami,winnebago,https://www.facebook.com/marketplace/miami/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Portland, OR",portland,motorhome,https://www.facebook.com/marketplace/portland/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Portland, OR",portland,class c rv,https://www.facebook.com/marketplace/portland/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Portland, OR",portland,camper van,https://www.facebook.com/marketplace/portland/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Portland, OR",portland,winnebago,https://www.facebook.com/marketplace/portland/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Denver, CO",denver,motorhome,https://www.facebook.com/marketplace/denver/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Denver, CO",denver,class c rv,https://www.facebook.com/marketplace/denver/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Denver, CO",denver,camper van,https://www.facebook.com/marketplace/denver/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Denver, CO",denver,winnebago,https://www.facebook.com/marketplace/denver/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Dallas, TX",dallas,motorhome,https://www.facebook.com/marketplace/dallas/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Dallas, TX",dallas,class c rv,https://www.facebook.com/marketplace/dallas/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Dallas, TX",dallas,camper van,https://www.facebook.com/marketplace/dallas/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Dallas, TX",dallas,winnebago,https://www.facebook.com/marketplace/dallas/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Houston, TX",houston,motorhome,https://www.facebook.com/marketplace/houston/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Houston, TX",houston,class c rv,https://www.facebook.com/marketplace/houston/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Houston, TX",houston,camper van,https://www.facebook.com/marketplace/houston/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Houston, TX",houston,winnebago,https://www.facebook.com/marketplace/houston/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Phoenix, AZ",phoenix,motorhome,https://www.facebook.com/marketplace/phoenix/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Phoenix, AZ",phoenix,class c rv,https://www.facebook.com/marketplace/phoenix/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Phoenix, AZ",phoenix,camper van,https://www.facebook.com/marketplace/phoenix/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Phoenix, AZ",phoenix,winnebago,https://www.facebook.com/marketplace/phoenix/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Philadelphia, PA",philadelphia,motorhome,https://www.facebook.com/marketplace/philadelphia/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Philadelphia, PA",philadelphia,class c rv,https://www.facebook.com/marketplace/philadelphia/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Philadelphia, PA",philadelphia,camper van,https://www.facebook.com/marketplace/philadelphia/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Philadelphia, PA",philadelphia,winnebago,https://www.facebook.com/marketplace/philadelphia/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Detroit, MI",detroit,motorhome,https://www.facebook.com/marketplace/detroit/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Detroit, MI",detroit,class c rv,https://www.facebook.com/marketplace/detroit/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Detroit, MI",detroit,camper van,https://www.facebook.com/marketplace/detroit/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Detroit, MI",detroit,winnebago,https://www.facebook.com/marketplace/detroit/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Minneapolis, MN",minneapolis,motorhome,https://www.facebook.com/marketplace/minneapolis/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Minneapolis, MN",minneapolis,class c rv,https://www.facebook.com/marketplace/minneapolis/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Minneapolis, MN",minneapolis,camper van,https://www.facebook.com/marketplace/minneapolis/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Minneapolis, MN",minneapolis,winnebago,https://www.facebook.com/marketplace/minneapolis/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Tampa, FL",tampa,motorhome,https://www.facebook.com/marketplace/tampa/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Tampa, FL",tampa,class c rv,https://www.facebook.com/marketplace/tampa/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Tampa, FL",tampa,camper van,https://www.facebook.com/marketplace/tampa/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Tampa, FL",tampa,winnebago,https://www.facebook.com/marketplace/tampa/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Orlando, FL",orlando,motorhome,https://www.facebook.com/marketplace/orlando/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Orlando, FL",orlando,class c rv,https://www.facebook.com/marketplace/orlando/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Orlando, FL",orlando,camper van,https://www.facebook.com/marketplace/orlando/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Orlando, FL",orlando,winnebago,https://www.facebook.com/marketplace/orlando/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Charlotte, NC",charlotte,motorhome,https://www.facebook.com/marketplace/charlotte/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Charlotte, NC",charlotte,class c rv,https://www.facebook.com/marketplace/charlotte/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Charlotte, NC",charlotte,camper van,https://www.facebook.com/marketplace/charlotte/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Charlotte, NC",charlotte,winnebago,https://www.facebook.com/marketplace/charlotte/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Nashville, TN",nashville,motorhome,https://www.facebook.com/marketplace/nashville/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Nashville, TN",nashville,class c rv,https://www.facebook.com/marketplace/nashville/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Nashville, TN",nashville,camper van,https://www.facebook.com/marketplace/nashville/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Nashville, TN",nashville,winnebago,https://www.facebook.com/marketplace/nashville/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Las Vegas, NV",lasvegas,motorhome,https://www.facebook.com/marketplace/lasvegas/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Las Vegas, NV",lasvegas,class c rv,https://www.facebook.com/marketplace/lasvegas/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Las Vegas, NV",lasvegas,camper van,https://www.facebook.com/marketplace/lasvegas/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Las Vegas, NV",lasvegas,winnebago,https://www.facebook.com/marketplace/lasvegas/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"San Diego, CA",sandiego,motorhome,https://www.facebook.com/marketplace/sandiego/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"San Diego, CA",sandiego,class c rv,https://www.facebook.com/marketplace/sandiego/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"San Diego, CA",sandiego,camper van,https://www.facebook.com/marketplace/sandiego/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"San Diego, CA",sandiego,winnebago,https://www.facebook.com/marketplace/sandiego/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Sacramento, CA",sacramento,motorhome,https://www.facebook.com/marketplace/sacramento/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Sacramento, CA",sacramento,class c rv,https://www.facebook.com/marketplace/sacramento/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Sacramento, CA",sacramento,camper van,https://www.facebook.com/marketplace/sacramento/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Sacramento, CA",sacramento,winnebago,https://www.facebook.com/marketplace/sacramento/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Columbus, OH",columbus,motorhome,https://www.facebook.com/marketplace/columbus/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Columbus, OH",columbus,class c rv,https://www.facebook.com/marketplace/columbus/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Columbus, OH",columbus,camper van,https://www.facebook.com/marketplace/columbus/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Columbus, OH",columbus,winnebago,https://www.facebook.com/marketplace/columbus/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Indianapolis, IN",indianapolis,motorhome,https://www.facebook.com/marketplace/indianapolis/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Indianapolis, IN",indianapolis,class c rv,https://www.facebook.com/marketplace/indianapolis/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Indianapolis, IN",indianapolis,camper van,https://www.facebook.com/marketplace/indianapolis/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Indianapolis, IN",indianapolis,winnebago,https://www.facebook.com/marketplace/indianapolis/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Cleveland, OH",cleveland,motorhome,https://www.facebook.com/marketplace/cleveland/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Cleveland, OH",cleveland,class c rv,https://www.facebook.com/marketplace/cleveland/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Cleveland, OH",cleveland,camper van,https://www.facebook.com/marketplace/cleveland/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Cleveland, OH",cleveland,winnebago,https://www.facebook.com/marketplace/cleveland/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Pittsburgh, PA",pittsburgh,motorhome,https://www.facebook.com/marketplace/pittsburgh/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Pittsburgh, PA",pittsburgh,class c rv,https://www.facebook.com/marketplace/pittsburgh/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Pittsburgh, PA",pittsburgh,camper van,https://www.facebook.com/marketplace/pittsburgh/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Pittsburgh, PA",pittsburgh,winnebago,https://www.facebook.com/marketplace/pittsburgh/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"St. Louis, MO",stlouis,motorhome,https://www.facebook.com/marketplace/stlouis/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"St. Louis, MO",stlouis,class c rv,https://www.facebook.com/marketplace/stlouis/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"St. Louis, MO",stlouis,camper van,https://www.facebook.com/marketplace/stlouis/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"St. Louis, MO",stlouis,winnebago,https://www.facebook.com/marketplace/stlouis/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Salt Lake City, UT",saltlakecity,motorhome,https://www.facebook.com/marketplace/saltlakecity/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Salt Lake City, UT",saltlakecity,class c rv,https://www.facebook.com/marketplace/saltlakecity/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Salt Lake City, UT",saltlakecity,camper van,https://www.facebook.com/marketplace/saltlakecity/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Salt Lake City, UT",saltlakecity,winnebago,https://www.facebook.com/marketplace/saltlakecity/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Albuquerque, NM",albuquerque,motorhome,https://www.facebook.com/marketplace/albuquerque/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Albuquerque, NM",albuquerque,class c rv,https://www.facebook.com/marketplace/albuquerque/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Albuquerque, NM",albuquerque,camper van,https://www.facebook.com/marketplace/albuquerque/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Albuquerque, NM",albuquerque,winnebago,https://www.facebook.com/marketplace/albuquerque/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Milwaukee, WI",milwaukee,motorhome,https://www.facebook.com/marketplace/milwaukee/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Milwaukee, WI",milwaukee,class c rv,https://www.facebook.com/marketplace/milwaukee/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Milwaukee, WI",milwaukee,camper van,https://www.facebook.com/marketplace/milwaukee/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Milwaukee, WI",milwaukee,winnebago,https://www.facebook.com/marketplace/milwaukee/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Baltimore, MD",baltimore,motorhome,https://www.facebook.com/marketplace/baltimore/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Baltimore, MD",baltimore,class c rv,https://www.facebook.com/marketplace/baltimore/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Baltimore, MD",baltimore,camper van,https://www.facebook.com/marketplace/baltimore/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Baltimore, MD",baltimore,winnebago,https://www.facebook.com/marketplace/baltimore/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Jacksonville, FL",jacksonville,motorhome,https://www.facebook.com/marketplace/jacksonville/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Jacksonville, FL",jacksonville,class c rv,https://www.facebook.com/marketplace/jacksonville/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Jacksonville, FL",jacksonville,camper van,https://www.facebook.com/marketplace/jacksonville/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Jacksonville, FL",jacksonville,winnebago,https://www.facebook.com/marketplace/jacksonville/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Memphis, TN",memphis,motorhome,https://www.facebook.com/marketplace/memphis/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Memphis, TN",memphis,class c rv,https://www.facebook.com/marketplace/memphis/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Memphis, TN",memphis,camper van,https://www.facebook.com/marketplace/memphis/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Memphis, TN",memphis,winnebago,https://www.facebook.com/marketplace/memphis/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"New Orleans, LA",neworleans,motorhome,https://www.facebook.com/marketplace/neworleans/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"New Orleans, LA",neworleans,class c rv,https://www.facebook.com/marketplace/neworleans/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"New Orleans, LA",neworleans,camper van,https://www.facebook.com/marketplace/neworleans/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"New Orleans, LA",neworleans,winnebago,https://www.facebook.com/marketplace/neworleans/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Louisville, KY",louisville,motorhome,https://www.facebook.com/marketplace/louisville/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Louisville, KY",louisville,class c rv,https://www.facebook.com/marketplace/louisville/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Louisville, KY",louisville,camper van,https://www.facebook.com/marketplace/louisville/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Louisville, KY",louisville,winnebago,https://www.facebook.com/marketplace/louisville/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Raleigh, NC",raleigh,motorhome,https://www.facebook.com/marketplace/raleigh/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Raleigh, NC",raleigh,class c rv,https://www.facebook.com/marketplace/raleigh/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Raleigh, NC",raleigh,camper van,https://www.facebook.com/marketplace/raleigh/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Raleigh, NC",raleigh,winnebago,https://www.facebook.com/marketplace/raleigh/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Birmingham, AL",birmingham,motorhome,https://www.facebook.com/marketplace/birmingham/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Birmingham, AL",birmingham,class c rv,https://www.facebook.com/marketplace/birmingham/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Birmingham, AL",birmingham,camper van,https://www.facebook.com/marketplace/birmingham/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Birmingham, AL",birmingham,winnebago,https://www.facebook.com/marketplace/birmingham/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Tucson, AZ",tucson,motorhome,https://www.facebook.com/marketplace/tucson/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Tucson, AZ",tucson,class c rv,https://www.facebook.com/marketplace/tucson/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Tucson, AZ",tucson,camper van,https://www.facebook.com/marketplace/tucson/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Tucson, AZ",tucson,winnebago,https://www.facebook.com/marketplace/tucson/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Fresno, CA",fresno,motorhome,https://www.facebook.com/marketplace/fresno/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Fresno, CA",fresno,class c rv,https://www.facebook.com/marketplace/fresno/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Fresno, CA",fresno,camper van,https://www.facebook.com/marketplace/fresno/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Fresno, CA",fresno,winnebago,https://www.facebook.com/marketplace/fresno/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Omaha, NE",omaha,motorhome,https://www.facebook.com/marketplace/omaha/search/?query=motorhome&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Omaha, NE",omaha,class c rv,https://www.facebook.com/marketplace/omaha/search/?query=class%20c%20rv&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Omaha, NE",omaha,camper van,https://www.facebook.com/marketplace/omaha/search/?query=camper%20van&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
+"Omaha, NE",omaha,winnebago,https://www.facebook.com/marketplace/omaha/search/?query=winnebago&maxPrice=1500&category=vehicles&sortBy=creation_time_descend&radius=500
