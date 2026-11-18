@@ -22,7 +22,7 @@ Aviation professional with hands-on experience as a Part 121 flight attendant, a
 - Coordinate cabin readiness, catering handoffs, and service timing to support on-time performance and a consistent guest experience.
 
 ### Funeral Services Associate  
-**[Funeral Home Name]** · Feb 2024 – Jul 2024
+**Fero Funeral Home** · Feb 2024 – Jul 2024
 
 - Provided discreet, high-touch support to families during sensitive arrangements, emphasizing composure, empathy, and confidentiality.
 - Coordinated logistics and timing for services; communicated clearly with clients, vendors, and internal teams under pressure.
@@ -31,13 +31,12 @@ Aviation professional with hands-on experience as a Part 121 flight attendant, a
 ### Airport Manager / Certified Flight Instructor  
 **Right Rudder Aviation** · Inverness, FL · Jan 2020 – Jan 2024
 
-- Served as primary point of contact for aircraft owners, charter customers, and flight crews; scheduled flights and coordinated trip support end-to-end.
-- Performed dispatcher-style duties: trip scheduling, itinerary communication, resource staging, and coordination with charter partners, pilots, and maintenance.
-- Arranged passenger and crew support services including catering, ground transportation, and staging of vehicles/amenities for VIP arrivals and departures.
-- Catered to high-net-worth and ultra-high-net-worth clients, delivering discreet, personalized service and creative solutions that met travel needs while protecting safety and regulatory compliance.
-- Managed day-to-day airport operations with minimal outside assistance: hangar leases, fueling/fuel inventory, ramp services, aircraft detailing, and safety oversight of instructors and students.
-- Handled large client transactions and marketed/sold aircraft as sole U.S. distributor for the assigned product line.
-- Built and maintained working knowledge of FAA regulations, airport operations, and safety management in a live flight-training and charter-support environment.
+- Ran day-to-day airport operations with minimal outside assistance—ramp, hangars, fuel, safety oversight, client service, and facility readiness.
+- Sold and marketed multi-million-dollar Pipistrel Aircraft as the sole U.S. distributor; handled large client transactions from inquiry through closing.
+- Personally transported and escorted high-net-worth / millionaire clients, delivering discreet, white-glove service from arrival through departure.
+- Planned catering, ground transportation, and VIP staging; performed dispatcher-style trip scheduling and coordination with charter partners, pilots, and maintenance.
+- Managed aircraft parts ordering and inventory support; restocked airport facilities including fuel tanks and operational supplies.
+- Coordinated aircraft and facility repairs—scoped work, hired repair crews/vendors, and followed through to keep assets airworthy and presentation-ready.
 
 ---
 

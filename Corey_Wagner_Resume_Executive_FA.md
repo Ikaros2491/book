@@ -1,5 +1,5 @@
 # COREY WAGNER
-**Executive Flight Attendant | Private Aviation Cabin Professional**
+**Flight Attendant | Private Aviation Cabin Professional**
 
 (352) 673-9027 · CoreyW2491@gmail.com · 7278 N Gibraltar Dr.
 
@@ -23,7 +23,7 @@ Polished, discreet Part 121 flight attendant and aviation professional seeking a
 - Adapt service to passenger needs and trip conditions while meeting FAR and company procedure requirements.
 
 ### Funeral Services Associate  
-**[Funeral Home Name]** · Feb 2024 – Jul 2024
+**Fero Funeral Home** · Feb 2024 – Jul 2024
 
 - Provided discreet, high-touch support to families in sensitive situations—composure, empathy, and absolute confidentiality.
 - Coordinated timing and logistics for services; partnered with clients, vendors, and internal teams under pressure.
@@ -32,12 +32,13 @@ Polished, discreet Part 121 flight attendant and aviation professional seeking a
 ### Airport Manager / Certified Flight Instructor  
 **Right Rudder Aviation** · Inverness, FL · Jan 2020 – Jan 2024
 
-- Delivered anticipatory, personalized service for high-net-worth and ultra-high-net-worth clients, principals, and charter guests—often as the sole face of the operation.
-- Planned and coordinated catering, ground transportation, and VIP staging so food, vehicles, and amenities were ready for guests and crews on arrival and departure.
-- Kept aircraft, hangar, and guest-facing spaces presentation-ready through detailing, ramp standards, and day-to-day operational ownership.
-- Served as central contact among owners, charter customers, pilots, and support partners; coordinated trip logistics and communicated itineraries with accuracy and discretion.
-- Managed airport operations end-to-end (fueling, hangar leases, safety oversight, client transactions) with meticulous follow-through and limited supervision.
-- Applied FAA regulatory knowledge and safety-first judgment in a live training and charter-support environment.
+- Ran day-to-day airport operations with minimal outside assistance—ramp, hangars, fuel, safety oversight, client service, and facility readiness.
+- Sold and marketed multi-million-dollar Pipistrel Aircraft as the sole U.S. distributor; handled large client transactions from inquiry through closing.
+- Personally transported and escorted high-net-worth / millionaire clients, delivering discreet, white-glove service from arrival through departure.
+- Planned catering, ground transportation, and VIP staging so food, vehicles, and amenities were ready for guests and crews.
+- Managed aircraft parts ordering and inventory support; restocked airport facilities including fuel tanks and operational supplies.
+- Coordinated aircraft and facility repairs—scoped work, hired repair crews/vendors, and followed through to keep assets airworthy and presentation-ready.
+- Served as central contact among owners, charter customers, pilots, and partners; coordinated trip logistics and itineraries with accuracy and discretion.
 
 ---
 

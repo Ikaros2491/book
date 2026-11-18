@@ -21,7 +21,7 @@ Aviation professional with experience as a Part 121 flight attendant, airport ma
 - Uphold confidentiality and FAR/company compliance in a high-tempo crew environment.
 
 ### Funeral Services Associate  
-**[Funeral Home Name]** · Feb 2024 – Jul 2024
+**Fero Funeral Home** · Feb 2024 – Jul 2024
 
 - Coordinated sensitive, time-critical logistics with clients and vendors; maintained strict confidentiality.
 - Strengthened organization, composure, and client-service skills used in trip support roles.
@@ -29,12 +29,13 @@ Aviation professional with experience as a Part 121 flight attendant, airport ma
 ### Airport Manager / Certified Flight Instructor  
 **Right Rudder Aviation** · Inverness, FL · Jan 2020 – Jan 2024
 
-- Central point of contact for aircraft owners, charter customers, and flight crews; scheduled flights and coordinated trip support end-to-end.
-- Performed dispatcher-style duties: trip scheduling, itinerary details, resource staging, and coordination with charter companies, pilots, and maintenance.
-- Arranged trip logistics—crew/passenger ground transportation, catering, and VIP staging—and confirmed support services against the schedule.
-- Delivered creative, safety-conscious solutions for high-net-worth client travel needs while adhering to regulations and operational limits.
-- Maintained day-to-day airport operations (fuel, hangars, ramp, safety oversight) with meticulous organization and limited supervision.
-- Kept working familiarity with FAA requirements, airport information, and operational constraints affecting trip feasibility.
+- Ran day-to-day airport operations with limited supervision—scheduling, ramp, hangars, fuel, safety, and client/crew support.
+- Central point of contact for aircraft owners, charter customers, and flight crews; performed dispatcher-style trip scheduling, itineraries, and coordination with charter partners, pilots, and maintenance.
+- Personally transported and escorted high-net-worth / millionaire clients; arranged catering, ground transportation, and VIP staging confirmed against the schedule.
+- Sold and marketed multi-million-dollar Pipistrel Aircraft as sole U.S. distributor; managed large client transactions end-to-end.
+- Handled aircraft parts ordering and inventory; restocked airport facilities including fuel and operational supplies to keep trips supported.
+- Coordinated repairs for aircraft and airport facilities—hired repair crews/vendors, tracked work, and restored operational readiness.
+- Applied FAA requirements, airport information, and operational constraints when assessing trip feasibility and resource needs.
 
 ---
 

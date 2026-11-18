@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Corey Wagner — Flight Coordinator Resume</title>
   <style>
+    @page { size: letter; margin: 0.42in 0.55in; }
     :root {
       --ink: #1a2332;
       --muted: #4a5568;
@@ -15,33 +16,32 @@
     body {
       margin: 0;
       color: var(--ink);
-      font-family: "Source Serif 4", "Liberation Serif", Georgia, serif;
-      font-size: 10.5pt;
-      line-height: 1.35;
+      font-family: Calibri, "Segoe UI", Arial, sans-serif;
+      font-size: 9.2pt;
+      line-height: 1.28;
       background: #e8ecf1;
     }
     .page {
       width: 8.5in;
       min-height: 11in;
-      margin: 0.4in auto;
-      padding: 0.55in 0.6in 0.5in;
+      margin: 0.3in auto;
+      padding: 0.42in 0.55in;
       background: #fff;
       box-shadow: 0 1px 8px rgba(0,0,0,.08);
     }
     h1 {
       margin: 0;
-      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-      font-size: 22pt;
+      font-size: 20pt;
       font-weight: 700;
       letter-spacing: 0.06em;
       text-transform: uppercase;
       color: var(--accent);
       text-align: center;
+      line-height: 1.05;
     }
     .title {
-      margin: 0.15em 0 0.35em;
-      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-      font-size: 9.5pt;
+      margin: 0.12em 0 0.22em;
+      font-size: 9pt;
       font-weight: 600;
       letter-spacing: 0.1em;
       text-transform: uppercase;
@@ -49,71 +49,80 @@
       text-align: center;
     }
     .contact {
+      margin: 0 0 0.35em;
       text-align: center;
-      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
       font-size: 9pt;
       color: var(--muted);
-      padding-bottom: 0.4em;
+      padding-bottom: 0.28em;
       border-bottom: 1.5px solid var(--accent);
-      margin-bottom: 0.55em;
     }
     h2 {
-      margin: 0.65em 0 0.28em;
-      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-      font-size: 9.5pt;
+      margin: 0.42em 0 0.18em;
+      font-size: 9pt;
       font-weight: 700;
-      letter-spacing: 0.14em;
+      letter-spacing: 0.12em;
       text-transform: uppercase;
       color: var(--accent);
       border-bottom: 1px solid var(--line);
-      padding-bottom: 0.15em;
+      padding-bottom: 0.1em;
     }
-    .summary { margin: 0; text-align: justify; }
-    .job { margin-top: 0.4em; }
+    .summary {
+      margin: 0;
+      text-align: justify;
+      font-size: 9pt;
+      line-height: 1.3;
+    }
+    .job { margin-top: 0.28em; }
     .job-header {
       display: flex;
       justify-content: space-between;
       align-items: baseline;
-      gap: 0.75em;
-      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+      gap: 0.5em;
     }
-    .job-title { font-weight: 700; font-size: 10.5pt; }
+    .job-title { font-weight: 700; font-size: 9.5pt; }
     .job-dates {
       white-space: nowrap;
-      font-size: 9pt;
+      font-size: 8.5pt;
       color: var(--muted);
       font-weight: 600;
     }
     .employer {
-      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-      font-size: 9.5pt;
+      margin: 0.02em 0 0.1em;
+      font-size: 8.8pt;
       color: var(--muted);
-      margin: 0.05em 0 0.2em;
       font-style: italic;
     }
-    ul { margin: 0.15em 0 0; padding-left: 1.1em; }
-    li { margin-bottom: 0.16em; }
+    ul {
+      margin: 0;
+      padding-left: 1em;
+    }
+    li {
+      margin-bottom: 0.08em;
+      font-size: 8.9pt;
+      line-height: 1.28;
+    }
     .edu-row, .ref-row {
       display: flex;
       justify-content: space-between;
-      gap: 0.75em;
-      margin-top: 0.28em;
+      gap: 0.5em;
+      margin-top: 0.18em;
+      font-size: 9pt;
     }
-    .edu-row strong, .skills strong, .ref-row strong {
-      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    .skills p {
+      margin: 0.15em 0 0;
+      font-size: 8.9pt;
+      line-height: 1.3;
     }
-    .skills p { margin: 0.22em 0 0; }
-    .note {
-      margin-top: 0.85em;
-      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-      font-size: 8pt;
-      color: #8a94a6;
-      text-align: center;
-    }
+    .skills strong { color: var(--ink); }
     @media print {
       body { background: #fff; }
-      .page { margin: 0; box-shadow: none; width: auto; min-height: auto; padding: 0.45in 0.55in; }
-      .note { display: none; }
+      .page {
+        margin: 0;
+        box-shadow: none;
+        width: auto;
+        min-height: auto;
+        padding: 0;
+      }
     }
   </style>
 </head>
@@ -148,7 +157,7 @@
         <span class="job-title">Funeral Services Associate</span>
         <span class="job-dates">Feb 2024 – Jul 2024</span>
       </div>
-      <p class="employer">[Funeral Home Name]</p>
+      <p class="employer">Fero Funeral Home</p>
       <ul>
         <li>Coordinated sensitive, time-critical logistics with clients and vendors; maintained strict confidentiality.</li>
         <li>Strengthened organization, composure, and client-service skills used in trip support roles.</li>
@@ -162,12 +171,13 @@
       </div>
       <p class="employer">Right Rudder Aviation · Inverness, FL</p>
       <ul>
-        <li>Central point of contact for aircraft owners, charter customers, and flight crews; scheduled flights and coordinated trip support end-to-end.</li>
-        <li>Performed dispatcher-style duties: trip scheduling, itinerary details, resource staging, and coordination with charter companies, pilots, and maintenance.</li>
-        <li>Arranged trip logistics—crew/passenger ground transportation, catering, and VIP staging—and confirmed support against the schedule.</li>
-        <li>Delivered creative, safety-conscious solutions for high-net-worth client travel needs while adhering to regulations and operational limits.</li>
-        <li>Maintained day-to-day airport operations (fuel, hangars, ramp, safety oversight) with meticulous organization and limited supervision.</li>
-        <li>Applied working knowledge of FAA requirements, airport information, and constraints affecting trip feasibility.</li>
+        <li>Ran day-to-day airport operations with limited supervision—scheduling, ramp, hangars, fuel, safety, and client/crew support.</li>
+        <li>Central point of contact for owners, charter customers, and crews; dispatcher-style trip scheduling, itineraries, and coordination with charter partners, pilots, and maintenance.</li>
+        <li>Personally transported and escorted high-net-worth / millionaire clients; arranged catering, ground transportation, and VIP staging confirmed against the schedule.</li>
+        <li>Sold and marketed multi-million-dollar Pipistrel Aircraft as sole U.S. distributor; managed large client transactions end-to-end.</li>
+        <li>Handled aircraft parts ordering and inventory; restocked airport facilities including fuel and operational supplies to keep trips supported.</li>
+        <li>Coordinated repairs for aircraft and airport facilities—hired repair crews/vendors, tracked work, and restored operational readiness.</li>
+        <li>Applied FAA requirements, airport information, and operational constraints when assessing trip feasibility and resource needs.</li>
       </ul>
     </div>
 
@@ -197,8 +207,6 @@
       <div><strong>Charles Lawson</strong> — CFO, Right Rudder Aviation</div>
       <span class="job-dates">(407) 734-1442 · Info@flyrra.com</span>
     </div>
-
-    <p class="note">Replace [Funeral Home Name]. Print or Save as PDF from the browser for a clean one-page file.</p>
   </main>
 </body>
 </html>
