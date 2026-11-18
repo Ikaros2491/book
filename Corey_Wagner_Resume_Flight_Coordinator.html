@@ -5,114 +5,90 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Corey Wagner — Flight Coordinator Resume</title>
   <style>
-    @page { size: letter; margin: 0; }
+    @page { size: letter; margin: 0.42in 0.55in; }
     :root {
       --ink: #1a2332;
       --muted: #4a5568;
       --line: #c5cdd8;
       --accent: #1e3a5f;
-      --side: #f3f6f9;
     }
     * { box-sizing: border-box; }
     body {
       margin: 0;
       color: var(--ink);
-      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-      font-size: 9.4pt;
-      line-height: 1.32;
+      font-family: Calibri, "Segoe UI", Arial, sans-serif;
+      font-size: 9.2pt;
+      line-height: 1.28;
       background: #e8ecf1;
     }
     .page {
       width: 8.5in;
-      height: 11in;
-      margin: 0.35in auto;
+      min-height: 11in;
+      margin: 0.3in auto;
+      padding: 0.42in 0.55in;
       background: #fff;
       box-shadow: 0 1px 8px rgba(0,0,0,.08);
-      display: flex;
-      flex-direction: column;
-      overflow: hidden;
-    }
-    header {
-      padding: 0.42in 0.45in 0.32in;
-      border-bottom: 2.5px solid var(--accent);
     }
     h1 {
       margin: 0;
-      font-size: 24pt;
+      font-size: 20pt;
       font-weight: 700;
-      letter-spacing: 0.08em;
+      letter-spacing: 0.06em;
       text-transform: uppercase;
       color: var(--accent);
       text-align: center;
       line-height: 1.05;
     }
     .title {
-      margin: 0.22em 0 0.35em;
-      font-size: 9.4pt;
+      margin: 0.12em 0 0.22em;
+      font-size: 9pt;
       font-weight: 600;
-      letter-spacing: 0.11em;
+      letter-spacing: 0.1em;
       text-transform: uppercase;
       color: var(--muted);
       text-align: center;
     }
     .contact {
-      margin: 0;
+      margin: 0 0 0.35em;
       text-align: center;
       font-size: 9pt;
       color: var(--muted);
-    }
-    .layout {
-      display: grid;
-      grid-template-columns: 2.3in 1fr;
-      flex: 1;
-      min-height: 0;
-    }
-    aside {
-      background: var(--side);
-      padding: 0.38in 0.3in 0.4in 0.34in;
-      border-right: 1px solid var(--line);
-    }
-    .main {
-      padding: 0.34in 0.4in 0.36in 0.38in;
+      padding-bottom: 0.28em;
+      border-bottom: 1.5px solid var(--accent);
     }
     h2 {
-      margin: 0 0 0.35em;
+      margin: 0.42em 0 0.18em;
       font-size: 9pt;
       font-weight: 700;
       letter-spacing: 0.12em;
       text-transform: uppercase;
       color: var(--accent);
       border-bottom: 1px solid var(--line);
-      padding-bottom: 0.16em;
+      padding-bottom: 0.1em;
     }
-    aside h2 { margin-top: 0.72em; }
-    aside h2:first-child { margin-top: 0; }
-    .main h2 { margin-top: 0.58em; }
-    .main h2:first-child { margin-top: 0; }
     .summary {
       margin: 0;
       text-align: justify;
-      font-family: Georgia, "Liberation Serif", serif;
-      font-size: 9.2pt;
-      line-height: 1.38;
+      font-size: 9pt;
+      line-height: 1.3;
     }
-    .job { margin-top: 0.42em; }
+    .job { margin-top: 0.28em; }
     .job-header {
       display: flex;
       justify-content: space-between;
       align-items: baseline;
       gap: 0.5em;
     }
-    .job-title { font-weight: 700; font-size: 10pt; }
+    .job-title { font-weight: 700; font-size: 9.5pt; }
     .job-dates {
       white-space: nowrap;
-      font-size: 8.6pt;
+      font-size: 8.5pt;
       color: var(--muted);
       font-weight: 600;
     }
     .employer {
-      margin: 0.06em 0 0.16em;
-      font-size: 9pt;
+      margin: 0.02em 0 0.1em;
+      font-size: 8.8pt;
       color: var(--muted);
       font-style: italic;
     }
@@ -121,182 +97,115 @@
       padding-left: 1em;
     }
     li {
-      margin-bottom: 0.16em;
-      font-family: Georgia, "Liberation Serif", serif;
-      font-size: 9pt;
-      line-height: 1.32;
-    }
-    .side-list {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
-    .side-list li {
-      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-      font-size: 8.8pt;
-      margin-bottom: 0.38em;
-      padding-left: 0.6em;
-      position: relative;
+      margin-bottom: 0.08em;
+      font-size: 8.9pt;
       line-height: 1.28;
     }
-    .side-list li::before {
-      content: "";
-      position: absolute;
-      left: 0;
-      top: 0.45em;
-      width: 0.3em;
-      height: 0.3em;
-      background: var(--accent);
-      border-radius: 50%;
-    }
-    .side-label {
-      display: block;
-      font-size: 8pt;
-      font-weight: 700;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-      color: var(--accent);
-      margin: 0.45em 0 0.2em;
-    }
-    .edu-item, .ref-item { margin-top: 0.38em; }
-    .edu-item strong, .ref-item strong {
-      display: block;
+    .edu-row, .ref-row {
+      display: flex;
+      justify-content: space-between;
+      gap: 0.5em;
+      margin-top: 0.18em;
       font-size: 9pt;
     }
-    .edu-meta, .ref-meta {
-      color: var(--muted);
-      font-size: 8.3pt;
-      margin-top: 0.1em;
-      line-height: 1.35;
+    .skills p {
+      margin: 0.15em 0 0;
+      font-size: 8.9pt;
+      line-height: 1.3;
     }
+    .skills strong { color: var(--ink); }
     @media print {
       body { background: #fff; }
       .page {
         margin: 0;
         box-shadow: none;
-        width: 8.5in;
-        height: 11in;
+        width: auto;
+        min-height: auto;
+        padding: 0;
       }
     }
   </style>
 </head>
 <body>
   <main class="page">
-    <header>
-      <h1>Corey Wagner</h1>
-      <p class="title">Flight Coordinator · Aviation Operations &amp; Trip Support</p>
-      <p class="contact">(352) 673-9027 · CoreyW2491@gmail.com · 7278 N Gibraltar Dr.</p>
-    </header>
+    <h1>Corey Wagner</h1>
+    <p class="title">Flight Coordinator · Aviation Operations &amp; Trip Support</p>
+    <p class="contact">(352) 673-9027 · CoreyW2491@gmail.com · 7278 N Gibraltar Dr.</p>
 
-    <div class="layout">
-      <aside>
-        <h2>Certifications</h2>
-        <ul class="side-list">
-          <li>Commercial Pilot</li>
-          <li>Certified Flight Instructor (CFI)</li>
-          <li>Part 121 Flight Attendant</li>
-          <li>CPR</li>
-          <li>First Aid</li>
-          <li>ServSafe Food Handler</li>
-        </ul>
+    <h2>Professional Summary</h2>
+    <p class="summary">
+      Aviation professional with experience as a Part 121 flight attendant, airport manager, and trip-support coordinator for high-net-worth clients and charter operations. Skilled at receiving trip needs, scheduling aircraft and support services, arranging crew and passenger logistics, and communicating accurate itineraries to clients, crews, and partners. Strong FAA and safety foundation; discreet with client information. Associate of Arts (Language) in progress at Liberty University—4.0 GPA, Dean’s List.
+    </p>
 
-        <h2>Skills</h2>
-        <span class="side-label">Operations</span>
-        <ul class="side-list">
-          <li>Trip scheduling</li>
-          <li>Itinerary communication</li>
-          <li>Crew &amp; passenger logistics</li>
-          <li>Catering / ground transport</li>
-          <li>Client preference tracking</li>
-          <li>Flight / trip support coordination</li>
-          <li>Confidentiality</li>
-          <li>FAA regulations &amp; safety</li>
-        </ul>
-        <span class="side-label">Tools</span>
-        <ul class="side-list">
-          <li>Microsoft Office / Windows</li>
-          <li>Quick software ramp-up</li>
-          <li>Vendor &amp; crew coordination</li>
-        </ul>
+    <h2>Professional Experience</h2>
 
-        <h2>Languages</h2>
-        <ul class="side-list">
-          <li>English — Fluent</li>
-          <li>Spanish — A2</li>
-        </ul>
+    <div class="job">
+      <div class="job-header">
+        <span class="job-title">Flight Attendant</span>
+        <span class="job-dates">Aug 2024 – Present</span>
+      </div>
+      <p class="employer">American Eagle (Envoy Air)</p>
+      <ul>
+        <li>Support Part 121 operations with clear communication to captains, ops, and passengers when plans change.</li>
+        <li>Maintain schedule awareness, cabin/catering readiness, and professional service under irregular operations.</li>
+        <li>Uphold confidentiality and FAR/company compliance in a high-tempo crew environment.</li>
+      </ul>
+    </div>
 
-        <h2>Education</h2>
-        <div class="edu-item">
-          <strong>Liberty University</strong>
-          <div class="edu-meta">A.A., Language · 4.0 GPA<br>Dean’s List · Exp. Spring 2027</div>
-        </div>
-        <div class="edu-item">
-          <strong>Right Rudder Aviation</strong>
-          <div class="edu-meta">Commercial Pilot · CFI<br>2020 – 2024</div>
-        </div>
-        <div class="edu-item">
-          <strong>Penn Foster</strong>
-          <div class="edu-meta">High School Diploma · 2019</div>
-        </div>
+    <div class="job">
+      <div class="job-header">
+        <span class="job-title">Funeral Services Associate</span>
+        <span class="job-dates">Feb 2024 – Jul 2024</span>
+      </div>
+      <p class="employer">Fero Funeral Home</p>
+      <ul>
+        <li>Coordinated sensitive, time-critical logistics with clients and vendors; maintained strict confidentiality.</li>
+        <li>Strengthened organization, composure, and client-service skills used in trip support roles.</li>
+      </ul>
+    </div>
 
-        <h2>Reference</h2>
-        <div class="ref-item">
-          <strong>Charles Lawson</strong>
-          <div class="ref-meta">CFO, Right Rudder Aviation<br>(407) 734-1442<br>Info@flyrra.com</div>
-        </div>
-      </aside>
+    <div class="job">
+      <div class="job-header">
+        <span class="job-title">Airport Manager / Certified Flight Instructor</span>
+        <span class="job-dates">Jan 2020 – Jan 2024</span>
+      </div>
+      <p class="employer">Right Rudder Aviation · Inverness, FL</p>
+      <ul>
+        <li>Ran day-to-day airport operations with limited supervision—scheduling, ramp, hangars, fuel, safety, and client/crew support.</li>
+        <li>Central point of contact for owners, charter customers, and crews; dispatcher-style trip scheduling, itineraries, and coordination with charter partners, pilots, and maintenance.</li>
+        <li>Personally transported and escorted high-net-worth / millionaire clients; arranged catering, ground transportation, and VIP staging confirmed against the schedule.</li>
+        <li>Sold and marketed multi-million-dollar Pipistrel Aircraft as sole U.S. distributor; managed large client transactions end-to-end.</li>
+        <li>Handled aircraft parts ordering and inventory; restocked airport facilities including fuel and operational supplies to keep trips supported.</li>
+        <li>Coordinated repairs for aircraft and airport facilities—hired repair crews/vendors, tracked work, and restored operational readiness.</li>
+        <li>Applied FAA requirements, airport information, and operational constraints when assessing trip feasibility and resource needs.</li>
+      </ul>
+    </div>
 
-      <section class="main">
-        <h2>Professional Summary</h2>
-        <p class="summary">
-          Aviation professional with experience as a Part 121 flight attendant, airport manager, and trip-support coordinator for high-net-worth clients and charter operations. Skilled at receiving trip needs, scheduling aircraft and support services, arranging crew and passenger logistics, and communicating accurate itineraries to clients, crews, and partners. Strong FAA and safety foundation; discreet with client information. Associate of Arts (Language) in progress at Liberty University—4.0 GPA, Dean’s List.
-        </p>
+    <h2>Education</h2>
+    <div class="edu-row">
+      <div><strong>Liberty University</strong> — Associate of Arts, Language · GPA 4.0 · Dean’s List</div>
+      <span class="job-dates">Expected Spring 2027</span>
+    </div>
+    <div class="edu-row">
+      <div><strong>Right Rudder Aviation</strong> — Commercial Pilot Certificate; Certified Flight Instructor (CFI)</div>
+      <span class="job-dates">2020 – 2024</span>
+    </div>
+    <div class="edu-row">
+      <div><strong>Penn Foster</strong> — High School Diploma</div>
+      <span class="job-dates">2019</span>
+    </div>
 
-        <h2>Professional Experience</h2>
+    <h2>Certifications &amp; Skills</h2>
+    <div class="skills">
+      <p><strong>Operations:</strong> Trip scheduling · Itinerary communication · Crew &amp; passenger logistics · Catering / ground transport coordination · Client preference awareness · Confidentiality · FAA regulations &amp; safety</p>
+      <p><strong>Aviation credentials:</strong> Commercial Pilot · CFI · Part 121 Flight Attendant (Envoy Air) · CPR · First Aid · ServSafe Food Handler</p>
+      <p><strong>Tools &amp; languages:</strong> Microsoft Office / Windows · English · Spanish (A2)</p>
+    </div>
 
-        <div class="job">
-          <div class="job-header">
-            <span class="job-title">Flight Attendant</span>
-            <span class="job-dates">Aug 2024 – Present</span>
-          </div>
-          <p class="employer">American Eagle (Envoy Air)</p>
-          <ul>
-            <li>Support Part 121 operations with clear communication to captains, ops, and passengers when plans change.</li>
-            <li>Maintain schedule awareness, cabin/catering readiness, and professional service under irregular operations.</li>
-            <li>Uphold confidentiality and FAR/company compliance in a high-tempo crew environment.</li>
-            <li>Coordinate cabin readiness and catering handoffs to support on-time performance and guest experience.</li>
-          </ul>
-        </div>
-
-        <div class="job">
-          <div class="job-header">
-            <span class="job-title">Funeral Services Associate</span>
-            <span class="job-dates">Feb 2024 – Jul 2024</span>
-          </div>
-          <p class="employer">Fero Funeral Home</p>
-          <ul>
-            <li>Coordinated sensitive, time-critical logistics with clients and vendors; maintained strict confidentiality.</li>
-            <li>Communicated clearly under pressure and strengthened organization and client-service skills used in trip support.</li>
-          </ul>
-        </div>
-
-        <div class="job">
-          <div class="job-header">
-            <span class="job-title">Airport Manager / CFI</span>
-            <span class="job-dates">Jan 2020 – Jan 2024</span>
-          </div>
-          <p class="employer">Right Rudder Aviation · Inverness, FL</p>
-          <ul>
-            <li>Ran day-to-day airport operations with limited supervision—scheduling, ramp, hangars, fuel, safety, and client/crew support.</li>
-            <li>Central point of contact for owners, charter customers, and crews; dispatcher-style trip scheduling, itineraries, and coordination with charter partners, pilots, and maintenance.</li>
-            <li>Personally transported high-net-worth / millionaire clients; arranged catering, ground transportation, and VIP staging confirmed against the schedule.</li>
-            <li>Sold and marketed multi-million-dollar Pipistrel Aircraft as sole U.S. distributor; managed large client transactions end-to-end.</li>
-            <li>Handled aircraft parts ordering and inventory; restocked fuel and operational supplies to keep trips supported.</li>
-            <li>Coordinated repairs for aircraft and airport facilities—hired repair crews/vendors, tracked work, and restored operational readiness.</li>
-            <li>Applied FAA requirements, airport information, and operational constraints when assessing trip feasibility and resource needs.</li>
-          </ul>
-        </div>
-      </section>
+    <h2>References</h2>
+    <div class="ref-row">
+      <div><strong>Charles Lawson</strong> — CFO, Right Rudder Aviation</div>
+      <span class="job-dates">(407) 734-1442 · Info@flyrra.com</span>
     </div>
   </main>
 </body>
